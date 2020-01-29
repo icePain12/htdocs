@@ -1,0 +1,28 @@
+body{
+    background-image: url("../img/tierra.jpg");
+    color: white; 
+    justify-items: center;
+    margin:0;
+    padding: 0;
+}
+#mapa{
+    align-content: center;
+    height:600px;
+    width: 900px;
+    align-items: center;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+}
+#geocoder{    
+    position: absolute;
+    top: 0; 
+    bottom: 0; 
+    width: 100%;
+}
+#marker { 
+    position: absolute;
+    top: 0; 
+    bottom: 0;
+    width: 100%; 
+}
